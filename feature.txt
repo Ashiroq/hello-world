@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This file contains brand new feature. Test.
-=======
 This file contains brand new feature. Test test test.
->>>>>>> master
