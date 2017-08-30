@@ -1,1 +1,1 @@
-Hi. This file contains brand new feature.
+This file contains brand new feature.
